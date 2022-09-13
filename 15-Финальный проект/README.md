@@ -4,4 +4,4 @@
 ## Вывод
 Обучив две модели, выбрали CatBoost, как самую точную с отклонением в 5.82 на тесте.
 ## Решение
-[Открыть Notebook](https://github.com/S1udent/yandex-practicum/blob/main/15-Обработка%20фотографий%20покупателя/Обработка%20фотографий%20покупателя.ipynb)
+[Открыть Notebook](https://github.com/S1udent/yandex-practicum/blob/main/15-Финальный%20проект/Финальный%20проект.ipynb)
